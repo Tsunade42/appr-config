@@ -1,1 +1,22 @@
-{"url":"https://oclc-assure-eternal-bloggers.trycloudflare.com","ip_local":"http://192.168.18.79:3001","online":false,"updated_at":1790386865944}
+{
+  "url": "https://oclc-assure-eternal-bloggers.trycloudflare.com",
+  "ip_local": "http://192.168.18.79:3001",
+  "online": false,
+  "updated_at": 1790386865944,
+  "servidores": {
+    "appr": {
+      "nombre": "Servidor AppR",
+      "url": "https://oclc-assure-eternal-bloggers.trycloudflare.com",
+      "ip_local": "http://192.168.18.79:3001",
+      "online": false,
+      "updated_at": 1790386865944
+    },
+    "er": {
+      "nombre": "Servidor ER",
+      "url": null,
+      "ip_local": null,
+      "online": false,
+      "updated_at": 1790675411589
+    }
+  }
+}
