@@ -1,1 +1,6 @@
-{"url":"https://souls-crossword-routers-fields.trycloudflare.com","ip_local":"http://192.168.18.79:3001","online":true,"updated_at":1791275564867,"servidores":{"appr":{"nombre":"Servidor AppR","url":"https://souls-crossword-routers-fields.trycloudflare.com","ip_local":"http://192.168.18.79:3001","online":true,"updated_at":1791275564867},"er":{"nombre":"Servidor ER","url":null,"ip_local":"http://192.168.18.79:3001","online":false,"updated_at":1791221652275}}}
+{
+  "url": "https://souls-crossword-routers-fields.trycloudflare.com",
+  "ip_local": "http://192.168.18.79:3001",
+  "online": true,
+  "updated_at": 1791276956993
+}
