@@ -1,1 +1,24 @@
-{"url":"https://abis.party","ip_local":"http://192.168.110.245:3001","online":true,"updated_at":1792540280814,"servidores":{"appr":{"key":"appr","nombre":"Servidor AppR","url":"https://ranging-sandy-thereby-bestsellers.trycloudflare.com","ip_local":"http://192.168.18.96:3001","online":true,"updated_at":1792520617032},"er":{"key":"er","nombre":"Servidor ER","url":null,"ip_local":"http://192.168.110.245:3001","online":false,"updated_at":1792540280814}}}
+{
+  "url": "https://abis.party",
+  "ip_local": "http://192.168.110.245:3001",
+  "online": true,
+  "updated_at": 1792551154400,
+  "servidores": {
+    "appr": {
+      "key": "appr",
+      "nombre": "Servidor AppR",
+      "url": "https://abis.party",
+      "ip_local": "http://192.168.18.96:3001",
+      "online": true,
+      "updated_at": 1792551154400
+    },
+    "er": {
+      "key": "er",
+      "nombre": "Servidor ER",
+      "url": null,
+      "ip_local": "http://192.168.110.245:3001",
+      "online": false,
+      "updated_at": 1792540280814
+    }
+  }
+}
